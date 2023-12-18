@@ -1,0 +1,18 @@
+{
+  "name": "cities-in-the-world-exercice",
+  "version": "1.0.0",
+  "description": "exercice",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass scss/styles.scss /public/css/styles.css",
+    "watch": "sass scss/styles.scss /public/css/styles.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
